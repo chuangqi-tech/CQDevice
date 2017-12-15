@@ -13,6 +13,6 @@ typedef void(^failureBlock)(NSError *error);
 
 @interface UIDevice (PostDeviceInfo)
 
-+ (void)postDeviceInfoWithUrl:(NSString *)url success:(successBlock)success failure:(failureBlock)failure item:(NSString *)fristItem,...;
++ (void)postDeviceInfoWithUrl:(NSString *)url success:(successBlock)success failure:(failureBlock)failure item:(NSString *)firstItem,...;
 
 @end
