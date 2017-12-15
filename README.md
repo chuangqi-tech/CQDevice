@@ -40,6 +40,6 @@
 * WifiSSID：WIFI名称
 * WifiBSSID：WiFi的BSSID，即mac地址
 * SIMCarrierName：SIM运营商
-* AllInstalledAppBundleID：获取设备所有安装应用的bundleID
+* AllInstalledAppBundleID：获取设备所有安装应用的bundleID(调用私有api)
 
 
